@@ -1,4 +1,4 @@
-# Information-security-practical
+## Information security
  ***IT contains all the practical from the information security practical list done in C++*** 
 > Practical list :-
 > 1. Implement the error correcting code.
