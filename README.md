@@ -14,7 +14,7 @@
 > 11. Implement a stream cipher technique.
 
 
----
+~~~
 
 #### ANSWER-10 
 #### CipherText-only Attack
@@ -22,5 +22,5 @@
  
 #### Known Plaintext Attack
 ##### The known-plaintext attack (KPA) or crib is an attack model for cryptanalysis where the attacker has samples of both the plaintext and its encrypted version (ciphertext), and is at liberty to make use of them to reveal further secret information such as secret keys and code books. The term "crib" originated at Bletchley Park, the British World War II decryption operation. Classical ciphers are typically vulnerable to known-plaintext attack. For example, a Caesar cipher can be solved using a single letter of corresponding plaintext and ciphertext to decrypt entirely. A general monoalphabetic substitution cipher needs several character pairs and some guessing if there are fewer than 26 distinct pairs. Modern ciphers such as Advanced Encryption Standard are not susceptible to known-plaintext attacks.
----
+~~~
 
